@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@lakshaykakkar**
 - ⚡ I’m currently pursuing **MS(Research)** in **Department of Computer Science and Engineering** at **IIT Delhi**
 - 👀 I have a keen interest on **Diffusion Models** and its applications in _Synthetic Tabular Data Generation_
-- 📫 You can reach out to me via: _lakshay4k@gmail.com_, _lakshay@cse.iitd.ac.in_, or over linkedin via https://www.linkedin.com/in/lakshay7k
+- 📫 You can reach out to me via: _lakshay4k@gmail.com_, _lakshay@cse.iitd.ac.in_, or over linkedin via _https://www.linkedin.com/in/lakshay7k_
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
