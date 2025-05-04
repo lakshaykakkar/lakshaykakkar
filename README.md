@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@lakshaykakkar**
-- 👀 I’m interested in _Artificial Intelligence and its applications_
-- 🌱 I’m currently pursuing **MS(Research)** from **IIT Delhi**
+- 🌱 I’m currently pursuing **MS(Research)** in **Department of Computer Science and Engineering** at **IIT Delhi**
+- - 👀 I’m interested in **Artificial Intelligence**
 - 📫 You can reach out to me via: _lakshay4k@gmail.com_, _lakshay@cse.iitd.ac.in_
 <!--
 - 😄 Pronouns: ...
