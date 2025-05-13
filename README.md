@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **@lakshaykakkar**
 - ✨ I work at **Airports Authority of India** as an _Assistant Manager IT_.
 - 👀 I have a keen interest on **Diffusion Models** and its applications
-- 📫 You can reach out to me via: _lakshay4k@gmail.com_, _lakshay@cse.iitd.ac.in_, or over linkedin via _https://www.linkedin.com/in/lakshay7k_
+- 📫 You can reach out to me via: _lakshay4k@gmail.com_ or over linkedin via _https://www.linkedin.com/in/lakshay7k_
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
