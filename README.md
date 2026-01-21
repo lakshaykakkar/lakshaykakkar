@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@lakshaykakkar**
 - ✨ I currently work at **Airports Authority of India** as an _Assistant Manager IT_.
-- ✨ I am currently researching AI at the **Indian Institute of Technology Delhi**, with specific interest in _Diffusion Models and their applications in Conditional Synthetic Tabular Data Generation_.
+- ✨ I am currently researching *AI* with specific focus on _Diffusion Models and their applications in Conditional Synthetic Tabular Data Generation_.
 - 📫 You can reach out to me via: _lakshay4k@gmail.com_, _lakshay@cse.iitd.ac.in_ or over linkedin @ _https://www.linkedin.com/in/lakshay7k_
 <!--
 - 😄 Pronouns: ...
